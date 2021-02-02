@@ -1,0 +1,1 @@
+This is Ken Steckler's first git project!
